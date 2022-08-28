@@ -1,7 +1,7 @@
 # EduTube - Get Certified to Watch YouTube!
 ## AI platform to get credibility by watching Youtube Tutorial Videos
 
-### Team name: Team Dark Coders
+### Team name: Team Dark coders
 
 ## Team members
 * Adil Khatri - adilaqzma@gmail.com

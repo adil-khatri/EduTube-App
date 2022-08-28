@@ -1,4 +1,4 @@
-# goaltube
+# EduTube
 
 A new Flutter project.
 

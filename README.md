@@ -54,7 +54,7 @@ Tools and technologies that you learnt and used in the project.
 
 ## Flowchart
 
-<img src="https://github.com/adil-khatri/EduTube-App/tree/main/Edutube%20-%20Screenshots/architecture.png" width="1000">
+<img src="https://github.com/adil-khatri/EduTube-App/blob/master/Edutube%20-%20Screenshots/flow.png" width="1000">
 
 
 ## Applications
@@ -79,19 +79,19 @@ Tools and technologies that you learnt and used in the project.
 
 - **Admin Panel**
 
-<img src="https://github.com/adil-khatri/EduTube-App/tree/main/Edutube%20-%20Screenshots/admin-login.png" width="1000">
+<img src="https://github.com/omjadhav3714/eduTube-mobile-app/blob/master/Edutube%20-%20Screenshots/admin-login.png" width="1000">
 
-<img src="https://github.com/adil-khatri/EduTube-App/tree/main/Edutube%20-%20Screenshots/users-list.png" width="1000">
+<img src="https://github.com/adil-khatri/EduTube-App/blob/master/Edutube%20-%20Screenshots/users-list.png" width="1000">
 
-<img src="https://github.com/adil-khatri/EduTube-App/tree/main/Edutube%20-%20Screenshots/user-playlist-list.png" width="1000">
+<img src="https://github.com/adil-khatri/EduTube-App/blob/master/Edutube%20-%20Screenshots/user-playlist-list.png" width="1000">
 
-<img src="https://github.com/adil-khatri/EduTube-App/tree/main/Edutube%20-%20Screenshots/search.png" width="1000">
+<img src="https://github.com/adil-khatri/EduTube-App/blob/master/Edutube%20-%20Screenshots/search.png" width="1000">
 
 - **Model that will extract the submitiles from the YouTube Video and generate subjetive questions**
  
-<img src="https://github.com/adil-khatri/EduTube-App/tree/main/Edutube%20-%20Screenshots/ml1.png" width="1000">
+<img src="https://github.com/adil-khatri/EduTube-App/blob/master/Edutube%20-%20Screenshots/ml1.png" width="1000">
 
-<img src="https://github.com/adil-khatri/EduTube-App/tree/main/Edutube%20-%20Screenshots/ml2.png" width="1000">
+<img src="https://github.com/adil-khatri/EduTube-App/blob/master/Edutube%20-%20Screenshots/ml2.png" width="1000">
 
-<img src="https://github.com/adil-khatri/EduTube-App/tree/main/Edutube%20-%20Screenshots/ml3.png" width="1000">
+<img src="https://github.com/adil-khatri/EduTube-App/blob/master/Edutube%20-%20Screenshots/ml3.png" width="1000">
 
